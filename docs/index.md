@@ -1,33 +1,47 @@
-# Home Page
+# Hey there, Clever Coders!
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Code Annotation Examples
+## Learn Software Engineering Now!
 
-### Codeblocks
+### Intro to Programming in C++
 
-Some `code` goes here.
+Watch the complete series on `YouTube`
 
-### Plain codeblock
+### Choose your Langauge
 
-A plain codeblock:
+#### Hello World in C++:
+
+``` cpp 
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World!"; 
+    return 0;
+}
+```
+
+#### Hello World in Java:
+
+``` java 
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
 
 ```
-Some code here
-def myfunction()
-// some comment
-```
 
-#### Code for a specific language
 
-Some more code with the `py` at the start:
+#### Hello World in Python:
 
 ``` py
-import tensorflow as tf
-def whatever()
+def func():
+    print("Hello World!);
 ```
 
-#### With a title
+<!-- #### With a title
 
 ``` py title="bubble_sort.py"
 def bubble_sort(items):
@@ -55,7 +69,7 @@ def bubble_sort(items):
         for j in range(len(items) - 1 - i):
             if items[j] > items[j + 1]:
                 items[j], items[j + 1] = items[j + 1], items[j]
-```
+``` -->
 
 <!-- ## Icons and Emojs
 
