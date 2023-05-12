@@ -8,24 +8,24 @@ I'm Haris Iftikhar, the founder and creator of **Coding Cleverly**. I have a pas
 
 I started my coding journey several years ago, and ever since, I have been fascinated by the endless possibilities that programming offers. From building simple command-line applications to developing complex web applications, I have gained a wealth of experience and knowledge in various programming languages and frameworks.
 
-## My Mission
+## Get in Touch
 
-My mission with Coding Cleverly is to make learning to code an enjoyable and accessible experience for everyone. I strive to break down complex concepts into simple, easy-to-understand explanations, and provide practical examples and projects to reinforce learning. I believe that anyone can learn to code with the right guidance and resources.
+If you have any questions, suggestions, or business inquiries, feel free to [contact me](mailto:harisiftikhar109@gmail.com) for further information. I'm always excited to connect with like-minded individuals and discuss all things coding!
 
 ## Join the Community
 
-I invite you to join the Coding Cleverly community, where you can connect with other learners, ask questions, and share your coding journey. Don't forget to follow me on [Medium](https://harisiftikhar.medium.com/) for insightful articles and updates on programming and software engineering.
+Connect with me and fellow coding enthusiasts on the **Coding Cleverly Discord server**. It's a great place to share ideas, ask questions, and collaborate on projects. Join us [here](https://discord.com/invite/rDUACTXjd9).
 
 ## Support Coding Cleverly
 
-- Join our [Discord server](https://discord.com/invite/rDUACTXjd9) to connect with fellow learners and get additional support.
-- Access exclusive coding cheatsheets on [Gumroad](https://codingcleverly.gumroad.com/).
-- Subscribe to our mailing list on [codingcleverly.eo.page](https://codingcleverly.eo.page/jbfg5) for updates and special offers.
-- Consider supporting Coding Cleverly on [Patreon](https://www.patreon.com/CodingCleverly) for exclusive content and benefits.
-- Buy me a coffee as a token of support on [Buy Me a Coffee](https://www.buymeacoffee.com/CodingCleverly).
+If you find value in the content I provide and would like to support Coding Cleverly, consider the following options:
 
-## Let's Code Cleverly Together!
+- Check out the **Coding Cleverly Gumroad store** for handy coding cheatsheets and resources. Visit [here](https://codingcleverly.gumroad.com/).
 
-Coding is a journey of continuous learning and growth. Together, let's explore the vast world of programming, unleash our creativity, and build amazing things. Remember, with dedication and perseverance, you can achieve great things in the world of coding.
+- Subscribe to the **Coding Cleverly mailing list** to receive updates on new tutorials, resources, and special offers. Sign up [here](https://codingcleverly.eo.page/jbfg5).
 
-Happy coding! :rocket:
+- Become a patron on **Patreon** to gain exclusive access to bonus content and behind-the-scenes insights. Support Coding Cleverly [here](https://www.patreon.com/CodingCleverly).
+
+- Show your support by buying me a coffee on **Buy Me a Coffee**. Your contribution helps fuel the creation of more valuable content. Buy me a coffee [here](https://www.buymeacoffee.com/CodingCleverly).
+
+Thank you for joining me on this coding journey! Let's continue to learn, grow, and code cleverly together.
