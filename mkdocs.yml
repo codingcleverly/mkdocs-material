@@ -1,6 +1,11 @@
 site_name: Coding Cleverly
+site_url: https://www.example.com  # Update with your website URL
+# [![Coding Cleverly](docs/logo.png)](#)
+
 theme:
   name: material
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -25,6 +30,10 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
+  extra_css:
+  - custom/theme.css
+  - custom/assets/logo.css
+
 
 extra:
   social:
@@ -54,3 +63,34 @@ markdown_extensions:
 
 copyright: |
   &copy; 2023 <a href="https://github.com/CodingCleverly"  target="_blank" rel="noopener">Coding Cleverly</a>
+  
+
+nav:
+  - Home: index.md  # Update with your home page file
+  - Tutorials:
+      - Getting Started: tutorials.md
+      - Advanced Techniques: tutorials/advanced-techniques.md
+  - Blog:
+      - Latest Posts: blogs.md
+      - Archives: blog/archives.md
+  - About: about.md  # Update with your about page file
+
+# Customize the appearance and content of the sidebar
+sidebar:
+  - Home: index.md
+  - Tutorials:
+      - Getting Started: tutorials/getting-started.md
+      - Advanced Techniques: tutorials/advanced-techniques.md
+  - Blog:
+      - Latest Posts: blog/latest.md
+      - Archives: blog/archives.md
+  - Social Media:
+      - GitHub: https://github.com/CodingCleverly
+      - Twitter: https://twitter.com/CodingCleverly
+      - LinkedIn: https://www.linkedin.com/in/HarisIftikhar1/
+
+# Configure the appearance and content of the footer
+footer:
+  - '&#169; 2023 <a href="https://github.com/CodingCleverly" target="_blank" rel="noopener">Coding Cleverly</a>'
+
+# Add any custom settings

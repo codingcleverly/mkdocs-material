@@ -10,35 +10,76 @@ Watch the complete series on `YouTube`
 
 ### Choose your Langauge
 
+#### Hello World in C:
+
+``` c 
+#include <stdio.h>
+#include <conio.h>
+
+void main() {
+    printf("Hello World!");
+}
+```
+
 #### Hello World in C++:
 
 ``` cpp 
 #include <iostream>
 using namespace std;
-
 int main() {
     cout << "Hello World!"; 
-    return 0;
 }
+
 ```
 
 #### Hello World in Java:
 
-``` java 
+``` java
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!);
+    }
+}
+```
+
+#### Hello World in C#:
+
+``` C# 
+namespace HelloWorld {
+	 class Hello {
+
+	     public static void main(String args[]) {
+            Console.WriteLine("Hello World!);
+         }
+    }
+}
+```
+
+#### Hello World in Python:
+
+``` python 
+def helloWorld():
+    print("Hello World");
+
+```
+
+#### Hello World in JavaScript:
+
+``` js
+function helloWorld() {
+    console.log("Hello World!");
+}
+```
+
+#### Hello World in Kotlin:
+
+``` kt 
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
 
-```
-
-
-#### Hello World in Python:
-
-``` py
-def func():
-    print("Hello World!);
 ```
 
 <!-- #### With a title
